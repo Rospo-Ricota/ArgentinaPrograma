@@ -1,1 +1,1 @@
-Hola Mundo, una vez más !!. mODIFICANDO EL ARCHIVO DESDE EL SERVER DE GIT. Luego verificar si se aplica el cambio en local.
+Hola Mundo, una vez más !!. mODIFICANDO EL ARCHIVO DESDE EL SERVER DE GIT. Luego verificar si se aplica el cambio en local. Modifico el local y pruebo pull.
